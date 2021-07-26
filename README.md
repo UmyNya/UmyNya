@@ -1,4 +1,4 @@
-- 👋 Hola! I’m Umy. 猫だよ～#ΦωΦ
+- 👋 Hola! I’m Umy. **猫**だよ～#ΦωΦ
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on everything
